@@ -43,7 +43,9 @@
 		<dependency>
 			<groupId>com.constantcontact</groupId>
 			<artifactId>constantcontact</artifactId>
-			<version>4.1.0</version>
+			<version>2.1.1</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/src/main/resources/static/libs/constantcontact-2.1.1.jar</systemPath>
 		</dependency>
 
 	</dependencies>
